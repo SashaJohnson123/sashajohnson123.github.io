@@ -87,8 +87,14 @@ div {
     /* border-top-color: white;
     border-bottom: solid;
     border-bottom-color: white; */
-    /* display: flex;
-    justify-content: space-around; */
+    
+}
+
+#socials {
+    /* direction: rtl; */
+    display: flex; 
+    justify-content: space-around; 
+    /* background-color: yellow */ */
 }
 
 .images {
@@ -175,3 +181,35 @@ form {
 .form-item button {
     width: 100px;
 }
+
+
+/* @import url(https://fonts.googleapis.com/css?family=Karla);
+
+body {
+  font-family: "Arial", sans-serif;
+   text-align: center;
+   font-size: 50px;
+   padding-top: 100px;
+  background-color: #202020; 
+  color: #f9f9f9; 
+}
+
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
+.cursor {
+    animation: blink 0.7s infinite;
+}  */
