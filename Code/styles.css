@@ -17,12 +17,17 @@ img {
     margin-right: 100px;
 }
 
+/* p {
+    display: flex; 
+    justify-content: center;
+} */
+
 h2 {
-    font-size: 2rem;
-    line-height: 2rem;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
     color: black;
     display: flex; 
-    justify-content: left;
+    justify-content: center;
 }
 h1 {
     font-size: 2rem;
