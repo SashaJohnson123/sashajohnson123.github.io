@@ -188,7 +188,6 @@ form {
     width: 100px;
 }
 
-
 /* @import url(https://fonts.googleapis.com/css?family=Karla);
 
 body {
@@ -219,3 +218,16 @@ body {
 .cursor {
     animation: blink 0.7s infinite;
 }  */
+
+.image-container {
+    display: inline-flex;
+}
+
+.image {
+    padding: 0px;
+    display: flex;
+    justify-content: space-between; 
+    margin: 5px;
+    width: 350px;
+    height: 350px; 
+}
