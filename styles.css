@@ -236,10 +236,10 @@ body {
 
 .image {
     padding: 0px;
-    display: flex;
+    display: flex; 
     justify-content: space-between; 
     flex-wrap: wrap; 
     margin: 5px;
-    width: 350px;
-    height: 350px; 
+    width: 50%;
+    height: 50%; 
 }
