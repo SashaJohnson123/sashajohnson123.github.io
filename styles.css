@@ -24,6 +24,15 @@ img {
     justify-content: center;
 } */
 
+h6 {
+    font-size: 2rem;
+    line-height: 2rem;;
+    color: black; 
+    display: flex; 
+    justify-content: center;
+}
+
+
 h2 {
     font-size: 2rem;
     line-height: 2rem;;
