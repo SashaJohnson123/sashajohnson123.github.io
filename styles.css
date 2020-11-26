@@ -237,7 +237,7 @@ body {
 .image {
     padding: 0px;
     display: flex; 
-    justify-content: space-between; 
+    justify-content: left; 
     flex-wrap: wrap; 
     margin: 5px;
     width: 50%;
