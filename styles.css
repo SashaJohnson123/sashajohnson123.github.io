@@ -232,8 +232,8 @@ body {
 
 .image-container {
     display: inline-flex;
-    width: 20%;
-    height: 20%; 
+    /* width: 20%;
+    height: 20%;  */
 }
 
 .image {
