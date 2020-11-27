@@ -232,8 +232,8 @@ body {
 
 .image-container {
     display: inline-flex;
-    width: 30%;
-    height: 30%; 
+    width: 20%;
+    height: 20%; 
 }
 
 .image {
@@ -242,6 +242,6 @@ body {
     justify-content: left; 
     flex-wrap: wrap; 
     margin: 10px;
-    width: 30%;
-    height: 30%; 
+    width: 20%;
+    height: 20%; 
 }
