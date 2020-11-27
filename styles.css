@@ -232,7 +232,7 @@ body {
 
 .image-container {
     display: inline-flex;
-   
+    justify-content: space-between;
 }
 
 .image {
